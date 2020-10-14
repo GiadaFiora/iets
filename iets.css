@@ -1,0 +1,104 @@
+
+/*css ding is een beetje rommelig*/
+body {
+  background-image: url('richcat.png');
+}
+
+body{
+  font-family: verdana;
+}
+
+body {
+  font-style: italic;
+}
+
+#wrapper {
+  width: 500px;
+  margin: auto;
+  background-color: white;
+}
+
+header {
+  width: 400px;
+  height: 50px;
+  background-color: violet;
+  float: left;
+}
+
+#sidebar {
+  width: 150px;
+  height: 1000px;
+  background-color: violet;
+  float: right;
+}
+#sidebar{
+  width: 100px;
+  height: 350px;
+  background-color: violet;
+  float: right;
+}
+
+footer {
+  width: 500px;
+  height: 150px;
+  background-color: violet;
+  float: left;
+}
+
+footer p {
+  color: darkblue;
+}
+
+footer b {
+  color: darkblue;
+}
+
+p {
+    color: #b800e6;
+}
+
+h2 {
+  color: #7a0099;
+}
+
+h1 {
+  color: #8f00b3;
+}
+
+h1 {
+  text-align: center;
+}
+
+ol {
+  color: violet;
+}
+
+table {
+  color: violet;
+}
+
+table {
+  border: 1px dashed black;
+}
+
+td {
+  border: 1px dotted black;
+}
+
+a {
+  color: violet;
+}
+
+a:hover {
+  color: darkblue
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+#afbeelding {
+  width: 50px;
+  height: 50px;
+}
